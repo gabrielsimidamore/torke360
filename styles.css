@@ -187,12 +187,12 @@ button { cursor: pointer; border: none; background: none; font-family: var(--fon
 }
 
 .nav-logo img {
-  height: 36px;
+  height: 40px;
   width: auto;
   transition: var(--transition);
   background: #fff;
-  padding: 4px 10px;
-  border-radius: 8px;
+  padding: 6px 14px;
+  border-radius: 10px;
 }
 
 .nav-logo:hover img { filter: brightness(1.1); }
@@ -1066,12 +1066,12 @@ button { cursor: pointer; border: none; background: none; font-family: var(--fon
 .footer-brand { max-width: 320px; }
 
 .footer-logo {
-  height: 32px;
+  height: 40px;
   width: auto;
   margin-bottom: 1.25rem;
   background: #fff;
-  padding: 4px 10px;
-  border-radius: 8px;
+  padding: 6px 14px;
+  border-radius: 10px;
 }
 
 .footer-brand p {
