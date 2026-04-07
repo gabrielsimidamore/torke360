@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" fill="none">
+  <!-- Yellow swirl/arc shapes -->
+  <g>
+    <!-- Main swirl - outer arc -->
+    <path d="M115 38 Q140 12 165 22 Q180 28 175 42" stroke="#F5C518" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <!-- Inner swirl arc -->
+    <path d="M120 42 Q142 22 162 30 Q172 35 168 44" stroke="#F5C518" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+    <!-- Small inner arc -->
+    <path d="M126 45 Q144 32 158 38" stroke="#F5C518" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  </g>
+
+  <!-- TORKE text -->
+  <text x="8" y="44" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="30" fill="#FFFFFF" letter-spacing="-0.5">Torke</text>
+
+  <!-- 360 text -->
+  <text x="108" y="44" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="18" fill="#F5C518" letter-spacing="0">360</text>
+</svg>
